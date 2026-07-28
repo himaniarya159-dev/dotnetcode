@@ -1,0 +1,14 @@
+C:\dotnetcode\CLIProgram\bin\Debug\net10.0\CLIProgram.exe
+C:\dotnetcode\CLIProgram\bin\Debug\net10.0\CLIProgram.deps.json
+C:\dotnetcode\CLIProgram\bin\Debug\net10.0\CLIProgram.runtimeconfig.json
+C:\dotnetcode\CLIProgram\bin\Debug\net10.0\CLIProgram.dll
+C:\dotnetcode\CLIProgram\bin\Debug\net10.0\CLIProgram.pdb
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.AssemblyInfoInputs.cache
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.AssemblyInfo.cs
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.csproj.CoreCompileInputs.cache
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.dll
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\refint\CLIProgram.dll
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.pdb
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\CLIProgram.genruntimeconfig.cache
+C:\dotnetcode\CLIProgram\obj\Debug\net10.0\ref\CLIProgram.dll

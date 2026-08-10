@@ -4,9 +4,8 @@ C:\CalculatorApp\bin\Debug\net10.0\CalculatorApp.runtimeconfig.json
 C:\CalculatorApp\bin\Debug\net10.0\CalculatorApp.dll
 C:\CalculatorApp\bin\Debug\net10.0\CalculatorApp.pdb
 C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
-C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
 C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.sourcelink.json
 C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
 C:\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
 C:\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 101,
+    "Name": "Nest Thermostat",
+    "Room": "Living Room",
+    "Status": "ONLINE",
+    "Temperature": 22.5,
+    "BatteryLevel": 95
+  },
+  {
+    "Id": 102,
+    "Name": "Attic Sensor",
+    "Room": "Attic",
+    "Status": "ALERT",
+    "Temperature": 34.0,
+    "BatteryLevel": 80
+  },
+  {
+    "Id": 103,
+    "Name": "Front Door Cam",
+    "Room": "Entrance",
+    "Status": "WARNING",
+    "Temperature": 19.0,
+    "BatteryLevel": 12
+  }
+]

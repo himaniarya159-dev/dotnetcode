@@ -1,24 +1,23 @@
-﻿namespace AnimalHierarchy
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("=== ANIMAL HIERARCHY DEMO ===\n");
+﻿using StarBuzz;
 
-            Tiger tiger = new Tiger();
-            tiger.Walk();
-            tiger.Hunt();
-            tiger.Jump();
+// Create a new multi-drink order
+Order order = new Order();
 
-            Console.WriteLine();
+// Drink 1: Large Hot Dark Roast with Mocha & Whipped Cream ($5.25)
+Beverage drink1 = 
+    new WhippedCream(
+        new Mocha(
+            new DarkRoast(Size.Large, Temperature.Hot)));
 
-            Dolphin dolphin = new Dolphin();
-            dolphin.Swim();
-            dolphin.Jump();
+// Drink 2: Medium Iced Espresso with Soy & Vanilla ($3.55)
+Beverage drink2 = 
+    new Vanilla(
+        new SoyMilk(
+            new Espresso(Size.Medium, Temperature.Iced)));
 
-            Console.WriteLine("\nPress any key to exit...");
-            Console.ReadKey();
-        }
-    }
-}
+// Add both coffees to the order
+order.AddBeverage(drink1);
+order.AddBeverage(drink2);
+
+// Print itemized receipt with BOGO 20% discount applied to the 2nd drink
+order.PrintReceipt();
